@@ -1,0 +1,13 @@
+{
+  "name": "leetcode",
+  "description": "my leetcode solutions",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>",
+  "repository": "github:bashmish/leetcode",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.14.0"
+  }
+}
